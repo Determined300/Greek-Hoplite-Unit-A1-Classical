@@ -13,6 +13,6 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>]",
 			        "[+15]% Strength <when defending> <vs [Ranged] units>",
 			        "[+15]% Strength <when defending> <vs [Sword] units>",
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
 	},
 ]
