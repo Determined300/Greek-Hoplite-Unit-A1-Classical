@@ -14,5 +14,5 @@
 			        "[+15]% Strength <when defending> <vs [Ranged] units>",
 			        "[+15]% Strength <when defending> <vs [Sword] units>",
 		"attackSound": "metalhit"
-	}
+	},
 ]
