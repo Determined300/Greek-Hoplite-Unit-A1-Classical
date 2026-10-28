@@ -12,7 +12,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"uogradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>]", "[+50]% Defense <vs [Ranged] units>]"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>]"],
 		"attackSound": "metalhit"
 	}
 ]
