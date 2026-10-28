@@ -1,38 +1,43 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Greece",
+		"leaderName": "Alexander",
+		"adjective": ["Doric"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart2": "Although, Ellada will be great again.",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"attacked": "Soldiers are not like trees. When they fall, they are not so easily replaced.",
+		"defeated": "You may have defeated us, but what we leave behind is woven into the lives of others.",
+		"introduction": "Choice, not chance, determines your destiny. Whatever choice you make involving our nation, know that we will reckon with our tongue and blade if necessary.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Greetings!",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralNo": ["We absolutely refuse.","No.","We humbly refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "What matter that you would bother us with, now?",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That is not possible!","We are not agreeing to that!"],
+		"hateYes": ["Know that we made a choice out of spite."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Very well.", "I forebobe, you are likely to come back for another round.", "Pity, very well.",
+		"tradeRequest": "We bestow you the honor of this trade offer.", "We have sent you a delegation bearing gifts. And we require benificial deal in exchange.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [255, 255, 255],
+		"innerColor": [65,141,253],
+		"uniqueName": "Hellenic League",
+		"unique": ["[-50]% City-State Influence degration",
+		           "City-State Influence recovers at twice the normal rate",
+		           "City-State territory always counts as friendly territory"
+		          ],
+		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
+                   "Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
+                   "Paros","Tegea","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos",
+                   "Sicyon","Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis","Patras",
+                   "Lamia","Nafplion","Apolyton"]
 	}
 ]
