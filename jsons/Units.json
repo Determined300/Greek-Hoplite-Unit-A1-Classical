@@ -11,7 +11,8 @@
 		"obsoleteTech": "Civil Service",
 		"uogradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>]",
-			        "[+25] Strength for <[Hoplite] units> <when defending> <vs [Ranged] units>"],
+			        "[+15]% Strength <when defending> <vs [Ranged] units>",
+			        "[+15]% Strength <when defending> <vs [Sword] units>",
 		"attackSound": "metalhit"
 	}
 ]
