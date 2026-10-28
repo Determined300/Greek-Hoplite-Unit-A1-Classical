@@ -10,7 +10,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"uogradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>]",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>",
 			        "[+15]% Strength <when defending> <vs [Ranged] units>",
 			        "[+15]% Strength <when defending> <vs [Sword] units>"
 		           ],
