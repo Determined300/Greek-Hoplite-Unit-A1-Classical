@@ -1,17 +1,18 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"name": "Hoplite",
+		"unitType": "Sword",
+		"uniqueTo": "Greece",
+		"replaces": "Spearman",
 		"movement": 2,
-		"strength": 90,
+		"strength": 13,
 		"rangedStrength": 36,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"cost": 57,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"uogradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>]", "[+50]% Defense <vs [Ranged] units>]"],
+		"attackSound": "metalhit"
 	}
 ]
